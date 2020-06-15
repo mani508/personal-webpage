@@ -35,6 +35,11 @@
         <img class="code-skill-pic" src="image1\code-skill.png" alt="skills-coding">
         <h3>Design & Development</h3>
         <p>Due to high interest in creativity,I started working in this field in my early college days.Overtime, getting experience in Android App Development and Web Designing.</p>
+        <h4> Seek out additional opportunities for growth </h4>
+		    <p> In high school, having a high GPA defined success (more or less). That changes tremendously in college. I’m not saying that grades aren’t important, but I am saying that other parts of life will come into play.Learning soft skills such as communication (by communication, I don’t just mean having the ability to talk to the opposite gender) will greatly expand your network of influential people. Speaking of networks, having a group of influential people around will help you greatly in your future. See what I mean? It’s no longer just about the grades; it’s also about your reputation as a hard worker, your ability to sweet-talk an interviewer, and your desire to improve yourself.</p>
+	    	<h5> Have fun but don’t make choices you will regret. </h5>
+		    <p> Going crazy after leaving home (forever) is part of the first-year experience. But don’t go too crazy. Remember, you only have a few years at a university, so be sure to make the most out of them. I’m not telling you not to have fun – by all means, your first year of college life is when you’re supposed to go crazy – but don’t make choices you’ll regret. There are a lot of opportunities, people to meet, and most of all, distance to grow; it’d be a shame to waste four years throwing ping pong balls around in a basement. </p>
+		   
       </div>
       <div class="skill-row">
         <img class="momo" src="image1\momo.png" alt="skill">
@@ -47,10 +52,10 @@
       <h2>Get In Touch</h2>
       <h3>If you want some suggestion/help in development,  I am a good advisor.</h3>
       <p>I will be glad to help you in any way.Highly responsive on whatsapp while call is also welcome in urgent cases,use email to send documents.</p>
-      <a class="btn" href="mailto:shandilyamanishankar@gmail.com">Mail To Me</a>
-      <a href="tel:+917976009220"><call me </a>
-      <p>Call :7361883851 </p>
-         <a href="https://wa.me/917976009220"> Whatsapp:7976009220 </a>
+      <a class="btn" href="mailto:manishankarshandilya@hotmail.com">Mail To Me</a>
+      <a href="tel:+91**********"><call me </a>
+      <p>Call :********** </p>
+         <a href="https://wa.me/91**********"> Whatsapp:********** </a>
 
 
     </div>
@@ -59,7 +64,7 @@
 
   <div class="bottom-container">
 
-    <a class="footer-link" href="https://www.instagram.com/manishankar_shandilya/">Instagram</a>
+    <a class="footer-link" href="https://www.instagram.com/_shandilya___/">Instagram</a>
     <p>© 2020-21 Mani Shankar Shandilya.</p>
   </div>
 
